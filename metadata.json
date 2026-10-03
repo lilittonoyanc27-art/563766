@@ -1,0 +1,7 @@
+{
+  "name": "Español-Armenio: Práctica y Millonario",
+  "description": "Aplicación interactiva de español a armenio con 10 juegos prácticos y el juego ¿Quién quiere ser millonario? sin límite de tiempo y traducción al hacer clic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
